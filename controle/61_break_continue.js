@@ -22,3 +22,5 @@ externo:
             console.log(`Par = ${a},${b}`)
         }
     }
+
+    console.log('Fim!')
